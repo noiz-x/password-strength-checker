@@ -52,7 +52,7 @@ The Password Strength Checker uses several strategies to determine how secure a 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd password_checker
+   cd password-strength-checker
    ```
 
 3. **Ensure Python 3 is installed on your system.**
